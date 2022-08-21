@@ -1,0 +1,235 @@
+.one{
+    background-color: goldenrod;
+}
+.one ol{
+    background-color: rgb(59, 20, 20);
+    color: white;
+    list-style-type: none;
+    display: flex;
+    width: 1060px;
+    height: 8vh;
+    margin-left: 50px;
+    padding-top: 10vh;
+    justify-content: right;
+    font-size: 20px;
+    padding-right: 150px;
+    padding-bottom: 20px;
+    border-radius: 2px 2px 0px 0px;
+}
+.one ol li{
+    justify-content: space-between;
+    width: 40px;
+    padding-right: 50px;
+}
+.three{
+    width: 1248.5px;
+    height: 500px;
+    border: 1px solid;
+    margin-left: 49.5px;
+    margin-top: -20px;
+    background-image: url("https://wallpaperaccess.com/full/1947484.jpg");
+    background-position: bottom;
+}
+.three h1{
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    top: 40%;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+.four{
+    width: 140px;
+    padding: 10px;
+    margin:270px 550px ;
+    color: black;
+    background-color: goldenrod;
+    border-color: goldenrod;
+}
+.five{
+    width: 1250px;
+    height: 700px;
+    margin-left: 49.5px;
+    color: white;
+    background-color: rgb(59, 20, 20);
+}
+.five h1{
+    position: absolute;
+    left: 32%;
+    font-size: 30px;
+    opacity: 1px;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.five p{
+    position: absolute;
+    left: 42%;
+    font-size: 20px;
+    margin-top: 80px;
+    color:goldenrod ;
+    text-transform: capitalize;
+    
+}
+.six{
+    height: 480px;
+    width: 350px;
+    /* border: 1px solid white; */
+    position: absolute;
+    left: 11%;
+    top: 140%;
+   margin-left: -50px;
+   
+    
+}
+.seven{
+    height: 480px;
+    width: 350px;
+    /* border: 1px solid white; */
+    position: absolute;
+    left: 38%;
+    top: 140%;
+    text-align: left;
+   
+    
+}
+.eight{
+    height: 480px;
+    width: 350px;
+    /* border: 1px solid white; */
+    position: absolute;
+    left: 65%;
+    top: 140%;
+    text-align: left;
+    
+}
+img{
+    width: 300px;
+    height: 250px;
+
+}
+.seven img{
+    margin-left: 25px;
+}
+.eight img{
+    margin-left: 50px ;
+}
+.class h1{
+    text-align: left;
+}
+
+.six img{
+   margin-left: 50px ;
+}
+.six h1{
+    font-size: 20px;
+    margin-left: -60px;
+}
+.seven h1{
+    font-size: 20px;
+    margin-left: -85px;
+}
+
+.eight h1{
+    font-size: 20px;
+    margin-left: -60px;
+}
+.six p{
+    font-size: 15px;
+    margin-left: -95px;
+    color: white;
+}
+
+.seven p{
+    font-size: 15px;
+    margin-left: -120px;
+    color: white;
+}
+
+.eight p{
+    font-size: 15px;
+    margin-left: -95px;
+    color: white;
+}
+.six button{
+    margin-top: 180px;
+    margin-left: 50px;
+    width:90px;
+    height: 30px;
+    background-color: goldenrod;
+    border-color: goldenrod;
+    border-radius: 5px;
+
+}
+
+.seven button{
+    margin-top: 180px;
+    margin-left: 30px;
+    width:90px;
+    height: 30px;
+    background-color: goldenrod;
+    border-color: goldenrod;
+    border-radius: 5px;
+
+}
+
+.eight button{
+    margin-top: 180px;
+    margin-left: 50px;
+    width:90px;
+    height: 30px;
+    background-color: goldenrod;
+    border-color: goldenrod;
+    border-radius: 5px;
+
+}
+.nine{
+    width: 1250px;
+    height: 250px;
+    margin-left: 49.5px;
+    background-image: url("https://image.shutterstock.com/image-photo/digital-technology-software-development-concept-260nw-2111828198.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ten{
+    width:400px;
+    height: 100px;
+   margin-top: -90px;
+   font-size: 20px;
+    margin-left: 100px;
+}
+.ten h1{
+    color: goldenrod;
+    margin-left: 60px;
+}
+.nine button{
+    margin-left: 850px;
+    margin-top: 100px;
+    width:100px;
+    height:40px;
+    border-radius: 5px;
+    border-color: goldenrod;
+    background-color: goldenrod;
+}
+.eleven{
+    width: 1250px;
+    height: 60px;
+    background-color: rgb(59, 20, 20);
+    margin-left: 49.5px;
+    border-radius: 0px 0px 2px 2px;
+}
+.zero{
+    background-color: rgb(59, 20, 20);
+    border: 1px solid rgb(59, 20, 20);
+    height: 70px;
+    width: 250px;
+    color: goldenrod;
+    margin-left: 49.5px;
+    margin-top: -9px;
+    font-size: 23px;
+    padding-left: 50px;
+    border-radius: 2px;
+}
