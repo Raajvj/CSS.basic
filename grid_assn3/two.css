@@ -1,0 +1,94 @@
+.grid-container{
+    display: grid;
+    padding: 10px;
+    text-align: center;
+}
+.grid-items1{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    /* padding: 40px 0 40px 0; */
+    background-color: #c9316b;
+    height: 20vh;
+}
+.grid-items2{
+   grid-row-start: 1;
+   grid-row-end: 3;
+   grid-column-start: 2;
+   grid-column-end: 5;
+    background-color: #ca319d;
+    /* padding: 40px 0 140px 0; */
+    height: 40vh;
+}
+.grid-items3{
+    grid-row-start: 1;
+   grid-row-end: 5;
+   grid-column-start: 5;
+   grid-column-end: 10;
+    background-color:#ed6e62;
+    /* padding: 40px 0 140px 0; */
+    height: 80vh;
+}
+.grid-items4{
+    grid-column-start: 10;
+    grid-column-end: 12;
+    background-color:#efc437;
+    /* padding: 40px 0 40px 0; */
+    height: 20vh;
+
+}
+.grid-items5{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    background-color:#538c45;
+    /* padding: 40px 0 40px 0; */
+    height: 20vh;
+}
+.grid-items6{
+    grid-column-start: 10;
+    grid-column-end: 12;
+    /* padding: 40px 0 40px 0; */
+    background-color:#267c87;
+    height: 20vh;
+}
+.grid-items7{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    background-color:#799928;
+    /* padding: 40px 0 40px 0; */
+    height: 20vh;
+}
+.grid-items8{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    background-color:#478755;
+    /* padding: 40px 0 40px 0; */
+    height: 20vh;
+}
+.grid-items9{
+    grid-column-start: 3;
+    grid-column-end: 5;
+    /* padding: 40px 0 40px 0; */
+    background-color:#30c9c2;
+    height: 20vh;
+}
+.grid-items10{
+    grid-column-start: 10;
+    grid-column-end: 12;
+    /* padding-right: 40px 0 40px 0; */
+    background-color:#31c98f;
+    height: 20vh;
+}
+.grid-items11{
+   /* padding: 40px 0 40px 0; */
+    grid-column-start: 1;
+    grid-column-end: 5;
+    background-color:#544079;
+    height: 20vh;
+}
+.grid-items12{
+    grid-column-start: 10;
+    grid-column-end: 12;
+    background-color:#de212f;
+    /* padding: 40px 0 40px 0; */
+    height: 20vh;
+}
